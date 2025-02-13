@@ -1,0 +1,7 @@
+source,destination,distance
+Bangalore,Hyderbad,400
+Hyderbad,Bangalore,400
+Mumbai,Delhi,1200
+Delhi,Mumbai,1200
+Chennai,Pune,700
+Pune,Chennai,700
